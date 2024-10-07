@@ -62,8 +62,8 @@ services:
       - PASSWORD=    #Replace password
       - PUID=1000
       - PGID=1000
-      - TZ=Europe/London
-      - CHROME_CLI=https://github.com/0xmoei #optional
+      - TZ=Europe/Berlin
+      - CHROME_CLI=https://github.com/ToanBm/chromium-linux-browser #optional
     volumes:
       - /root/chromium/config:/config
     ports:
@@ -90,3 +90,49 @@ docker stop chromium
 docker rm chromium
 docker system prune
 ```
+-------------------------------------------------------------------------------------------------------------------------------
+# Nodes you can run
+### Dawn
+* Raised $18M
+* Install [Extension](https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp)
+* Create account with Email and verify your Email
+* Invite Code: `uy6acy7s`
+
+#
+
+### Gradient: Fail
+
+
+#
+
+### Nodepay
+* Backed by Animoca
+* Create account [here](https://app.nodepay.ai/register?ref=RBjYajVO9U5p89W)
+* Install [Extension](https://chromewebstore.google.com/detail/nodepay-extension/lgmpfmgeabnnlemejacfljbmonaomfmm)
+
+#
+
+### Blockmesh
+* Data Network in EclipseFND ecosystem
+* Create account [here](https://app.blockmesh.xyz/register?invite_code=9d698d03-f93c-4fa5-af34-2ec06d1e3dda)
+* Install [Extension](https://chromewebstore.google.com/detail/blockmesh-network/obfhoiefijlolgdmphcekifedagnkfjp)
+
+#
+
+### Functor Network
+* $FUNC airdrop confirmed
+* Create account and Install Extension [here]()
+* It needs a code to join: `cm1i9yz06es6aqi1bqs0mjsk4`
+* There is a daily Check-in
+
+#
+
+### Blockless Phase 3 soon...
+
+#
+
+### Openlayer AI Network
+
+
+#
+
