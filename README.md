@@ -4,6 +4,11 @@ Chromium is an open-source browser project that aims to build a safer, faster, a
 * You can easily run your Node Extensions 
 
 ## Install Docker
+# Docker version check
+```console
+docker --version
+```
+## If you have installed please go to next step! `Timezone check`
 ```console
 sudo apt update -y && sudo apt upgrade -y
 for pkg in docker.io docker-doc docker-compose podman-docker containerd runc; do sudo apt-get remove $pkg; done
@@ -22,9 +27,6 @@ echo \
 sudo apt update -y && sudo apt upgrade -y
 
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
-
-# Docker version check
-docker --version
 ```
 
 ## Timezone check
