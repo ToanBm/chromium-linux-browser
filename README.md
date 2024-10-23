@@ -94,32 +94,21 @@ docker system prune
 ```
 -------------------------------------------------------------------------------------------------------------------------------
 # Nodes you can run
-### Dawn
+### 1. Dawn
 * Raised $18M
 * Install [Extension](https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp)
 * Create account with Email and verify your Email
 * Invite Code: `uy6acy7s`
 
-#
-
-### Gradient: Fail
-
-
-#
-
-### Nodepay
+### 2. Nodepay
 * Backed by Animoca
 * Create account [here](https://app.nodepay.ai/register?ref=RBjYajVO9U5p89W)
 * Install [Extension](https://chromewebstore.google.com/detail/nodepay-extension/lgmpfmgeabnnlemejacfljbmonaomfmm)
 
-#
-
-### Blockmesh
+### 3. Blockmesh
 * Data Network in EclipseFND ecosystem
 * Create account [here](https://app.blockmesh.xyz/register?invite_code=9d698d03-f93c-4fa5-af34-2ec06d1e3dda)
 * Install [Extension](https://chromewebstore.google.com/detail/blockmesh-network/obfhoiefijlolgdmphcekifedagnkfjp)
-
-#
 
 ### Functor Network
 * $FUNC airdrop confirmed
