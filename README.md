@@ -110,6 +110,12 @@ docker system prune
 * Create account [here](https://app.blockmesh.xyz/register?invite_code=9d698d03-f93c-4fa5-af34-2ec06d1e3dda)
 * Install [Extension](https://chromewebstore.google.com/detail/blockmesh-network/obfhoiefijlolgdmphcekifedagnkfjp)
 
+### 4. Teneo
+* 
+* Install [Extension](https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm)
+* Register with Code: EN9v2
+
+
 ### Functor Network
 * $FUNC airdrop confirmed
 * Create account and Install Extension [here]()
