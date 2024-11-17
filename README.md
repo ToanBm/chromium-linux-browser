@@ -115,6 +115,15 @@ docker system prune
 * Install [Extension](https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm)
 * Register with Code: EN9v2
 
+### 5. GAEA
+* Create account [here](https://app.aigaea.net/register?ref=gaImn1TX5Z8bu2)
+* Install [Extension](https://chromewebstore.google.com/detail/gaea-extension/cpjicfogbgognnifjgmenmaldnmeeeib)
+
+### 6. Pipe Network
+* Create account [here](https://pipecdn.app/signup?ref=YnVpbWluaH)
+* Install [Extension](https://chromewebstore.google.com/detail/pipe-guardian-node/gelgmmdfajpefjbiaedgjkpekijhkgbe)
+
+  
 
 ### Functor Network
 * $FUNC airdrop confirmed
