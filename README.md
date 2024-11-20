@@ -123,6 +123,12 @@ docker system prune
 * Create account [here](https://pipecdn.app/signup?ref=YnVpbWluaH)
 * Install [Extension](https://chromewebstore.google.com/detail/pipe-guardian-node/gelgmmdfajpefjbiaedgjkpekijhkgbe)
 
+### 7. Grass
+* Create account [here](https://app.getgrass.io/register/?referralCode=rrAPL80RxP8a7L1)
+* Install [Extension](https://chromewebstore.google.com/detail/grass-lite-node/ilehaonighjijnmpnagapkhpcdbhclfg?hl=en)
+
+
+https://app.getgrass.io/register/?referralCode=rrAPL80RxP8a7L1
   
 
 ### Functor Network
